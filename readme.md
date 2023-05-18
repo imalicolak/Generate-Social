@@ -33,7 +33,7 @@ which we felt would still give us good experience building a full-stack applicat
 1. Clone the repository: git clone https://github.com/JuanitoDeLaTorre/Unit-2-Group-Project.git
 2. Install the dependencies: npm install
 3. Create a .env file and add your MongoDB connection string: GENERATE_DB = mongodb+srv://Munjal:Mongo123@cluster0.ew0j2a2.mongodb.net/?retryWrites=true&w=majority
-4. Start the server: npm --watch app.js
+4. Start the server: nodemon app.js
 5. Open the site in your browser: http://localhost:4000
 
 
@@ -65,6 +65,13 @@ Social media sites are designed to have a suite of unique and engaging features 
 5. Deeper incorporation of the Unsplash API in elements like filling fake user's accounts with photos
 
 Given more time, we feel like these features (and more) would be easily achievable, but given the one-week time frame and, frankly, our limited experience building full-stack applications, we were not able to accomplish them.
+
+##DEMO
+
+
+https://github.com/imalicolak/Generate-Social/assets/17754111/abb57662-aacc-4275-830f-e1b6a875b14f
+
+
 
 
 ### Contributing Teammates
